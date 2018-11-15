@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXDocking_AutoHiddenPanels/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXDocking_AutoHiddenPanels/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXDocking_AutoHiddenPanels/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXDocking_AutoHiddenPanels/MainPage.xaml))
+<!-- default file list end -->
 # How to create auto-hidden panels
 
 
